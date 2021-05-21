@@ -1,7 +1,4 @@
 library(tidyverse)
-library(hrbrthemes)
-library(viridis)
-library(ggridges)
 
 df_yle_full <- read_csv("df_yle_anon.csv")
 
